@@ -32,5 +32,5 @@ machine and open the `index.html` file in your web browser. Feel free to explore
 the HTML and CSS files to understand how the layout and styling are implemented.
 
 ```bash
-git clone https://github.com/your-username/Chale-Hotel.git
+git clone https://github.com/ViniciusCanedo/siteChaleHotel.git
 ```
